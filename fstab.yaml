@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p152536-e1620746.adobeaemcloud.com/bin/franklin.delivery/adobe-cm/cm-p152536-s8509-Test/main"
+    url: "https://author-p152536-e1620746.adobeaemcloud.com/bin/franklin.delivery/marcel8915/aem-eds/main"
     type: "markup"
     suffix: ".html"
     
